@@ -11,5 +11,6 @@ I work on various projects, ranging from experimental endeavors to participating
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 ![34RTHY's GitHub stats](https://github-readme-stats.vercel.app/api?username=34RTHY&show_icons=true&theme=radical)
+![Hallo Everynyan](https://tenor.com/en-GB/view/chiyo-chichi-chiyo_chichi-cat-fly-gif-9439928)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=34RTHY&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=34RTHY&layout=compact&theme=dark)
