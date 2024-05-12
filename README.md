@@ -3,7 +3,7 @@ I work on various projects, ranging from experimental endeavors to participating
 ![FINISH2](https://github.com/34RTHY/34RTHY/assets/54650326/984105c3-52e7-41df-a54b-1190bf8d1796)
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,css,html,discord,mongodb,opencv,regex,lua,gcp,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,css,html,discord,mongodb,opencv,regex,lua,gcp,git,&theme=dark)](https://skillicons.dev)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
