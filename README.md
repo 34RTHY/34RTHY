@@ -15,5 +15,5 @@ I work on various projects, ranging from experimental endeavors to participating
 ![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/34RTHY/34RTHY/assets/54650326/0bce6037-7d52-4677-961e-8d8ae657f5ed)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=34RTHY&theme=radical)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=34RTHY&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=34RTHY&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
