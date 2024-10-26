@@ -1,6 +1,5 @@
 # 34RTHY
-I work on various projects, ranging from experimental endeavors to participating in hackathons.
-![FINISH2](https://github.com/34RTHY/34RTHY/assets/54650326/984105c3-52e7-41df-a54b-1190bf8d1796)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,css,html,discord,mongodb,opencv,regex,lua,gcp,git,&theme=dark)](https://skillicons.dev)
