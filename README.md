@@ -34,9 +34,9 @@ Specializing in secure architectures, AI integration, and cybersecurity.
 
 <br>
 
-<a href="https://github.com/34RTHY">
-  <img src="https://github-readme-stats.vercel.app/api?username=34RTHY&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6e96&icon_color=bd93f9&text_color=a9b1d6" alt="GitHub Stats" />
-</a>
+<!-- <a href="https://github.com/34RTHY"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=34RTHY&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff6e96&icon_color=bd93f9&text_color=a9b1d6" alt="GitHub Stats" /> -->
+<!-- </a> -->
 
 ---
 
