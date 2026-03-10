@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> 34RTHY_`
+# `> 34RTHY`
 
 ### Backend & DevOps Engineer
 
